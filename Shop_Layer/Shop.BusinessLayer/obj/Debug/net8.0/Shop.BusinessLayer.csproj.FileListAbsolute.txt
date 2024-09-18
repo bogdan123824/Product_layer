@@ -1,0 +1,15 @@
+C:\LanguageNext\Shop.BusinessLayer\bin\Debug\net8.0\Shop.BusinessLayer.deps.json
+C:\LanguageNext\Shop.BusinessLayer\bin\Debug\net8.0\Shop.BusinessLayer.dll
+C:\LanguageNext\Shop.BusinessLayer\bin\Debug\net8.0\Shop.BusinessLayer.pdb
+C:\LanguageNext\Shop.BusinessLayer\bin\Debug\net8.0\Shop.DataAccessLayer.dll
+C:\LanguageNext\Shop.BusinessLayer\bin\Debug\net8.0\Shop.DataAccessLayer.pdb
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\Shop.BusinessLayer.csproj.AssemblyReference.cache
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\Shop.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\Shop.BusinessLayer.AssemblyInfoInputs.cache
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\Shop.BusinessLayer.AssemblyInfo.cs
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\Shop.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\Shop.Bus.CABE9FE8.Up2Date
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\Shop.BusinessLayer.dll
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\refint\Shop.BusinessLayer.dll
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\Shop.BusinessLayer.pdb
+C:\LanguageNext\Shop.BusinessLayer\obj\Debug\net8.0\ref\Shop.BusinessLayer.dll

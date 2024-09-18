@@ -1,0 +1,14 @@
+C:\LanguageNext\Shop.DataAccessLayer\bin\Debug\net8.0\Shop.DataAccessLayer.deps.json
+C:\LanguageNext\Shop.DataAccessLayer\bin\Debug\net8.0\Shop.DataAccessLayer.runtimeconfig.json
+C:\LanguageNext\Shop.DataAccessLayer\bin\Debug\net8.0\Shop.DataAccessLayer.dll
+C:\LanguageNext\Shop.DataAccessLayer\bin\Debug\net8.0\Shop.DataAccessLayer.pdb
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\Shop.DataAccessLayer.csproj.AssemblyReference.cache
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\Shop.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\Shop.DataAccessLayer.AssemblyInfoInputs.cache
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\Shop.DataAccessLayer.AssemblyInfo.cs
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\Shop.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\Shop.DataAccessLayer.dll
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\refint\Shop.DataAccessLayer.dll
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\Shop.DataAccessLayer.pdb
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\Shop.DataAccessLayer.genruntimeconfig.cache
+C:\LanguageNext\Shop.DataAccessLayer\obj\Debug\net8.0\ref\Shop.DataAccessLayer.dll

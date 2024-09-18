@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LanguageNext\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|c:\\languagenext\\shop\\mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|solutionrelative:mapping\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|C:\\LanguageNext\\Shop\\models\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|solutionrelative:models\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|C:\\LanguageNext\\Shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\ef\\dbproductcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|C:\\LanguageNext\\Shop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\entities\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|C:\\LanguageNext\\Shop\\models\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|solutionrelative:models\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|C:\\LanguageNext\\Shop\\models\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|solutionrelative:models\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\repositories\\productrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|C:\\LanguageNext\\Shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24BF9DB1-2D3F-4235-A656-0EA793E2E5F1}|Shop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\repositories\\unitofworkef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\interfaces\\iunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\repositories\\categoryrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\repositories\\manufacturerrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\services\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\interfaces\\imanufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\businessmodel\\emptyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEAAFA0F-1757-498D-88B9-01BEABDBD375}|..\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj|c:\\languagenext\\shop.businesslayer\\dto\\manufacturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|c:\\languagenext\\shop.dataaccesslayer\\shop.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C97AB18-7F07-4B7F-859D-5B4158A99423}|..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj|C:\\LanguageNext\\Shop.DataAccessLayer\\Migrations\\20240917234823_ProductMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop\\Mapping\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Mapping\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop\\Mapping\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Mapping\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:39:31.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:15:28.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:40:02.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop\\Models\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AddProductRequest.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop\\Models\\AddProductRequest.cs",
+              "RelativeToolTip": "Models\\AddProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:37:49.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:41:56.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240917234823_ProductMigration.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Migrations\\20240917234823_ProductMigration.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Migrations\\20240917234823_ProductMigration.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Migrations\\20240917234823_ProductMigration.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Migrations\\20240917234823_ProductMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:48:24.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:14:02.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbProductContext.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\EF\\DbProductContext.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\EF\\DbProductContext.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\EF\\DbProductContext.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\EF\\DbProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:08:46.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Entities\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Entities\\Manufacturer.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Entities\\Manufacturer.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Entities\\Manufacturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:17:31.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop\\Models\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "Models\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop\\Models\\UpdateProductRequest.cs",
+              "RelativeToolTip": "Models\\UpdateProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:38:57.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop\\Models\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ProductResponse.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop\\Models\\ProductResponse.cs",
+              "RelativeToolTip": "Models\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:37:31.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepos.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Repositories\\ProductRepos.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Repositories\\ProductRepos.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Repositories\\ProductRepos.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Repositories\\ProductRepos.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:38:16.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Entities\\Product.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:20:04.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\LanguageNext\\Shop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T18:27:09.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWorkEF.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Repositories\\UnitOfWorkEF.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Repositories\\UnitOfWorkEF.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Repositories\\UnitOfWorkEF.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Repositories\\UnitOfWorkEF.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:19:33.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\Services\\CategoryService.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:38:31.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ManufacturerRepos.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Repositories\\ManufacturerRepos.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Repositories\\ManufacturerRepos.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Repositories\\ManufacturerRepos.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Repositories\\ManufacturerRepos.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:38:56.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryRepos.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Repositories\\CategoryRepos.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Repositories\\CategoryRepos.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Repositories\\CategoryRepos.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Repositories\\CategoryRepos.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:38:41.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWorks.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Interfaces\\IUnitOfWorks.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Interfaces\\IUnitOfWorks.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Interfaces\\IUnitOfWorks.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Interfaces\\IUnitOfWorks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:35:11.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManufacturerService.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\Services\\ManufacturerService.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\Services\\ManufacturerService.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\Services\\ManufacturerService.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\Services\\ManufacturerService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:32:28.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:52:58.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\Services\\ProductService.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwCUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:57:47.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IManufacturerService.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\Interfaces\\IManufacturerService.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\Interfaces\\IManufacturerService.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\Interfaces\\IManufacturerService.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\Interfaces\\IManufacturerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:51:07.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T23:34:08.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:49:03.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManufacturerDTO.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\DTO\\ManufacturerDTO.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\DTO\\ManufacturerDTO.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\DTO\\ManufacturerDTO.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\DTO\\ManufacturerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:41:41.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:38:39.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmptyProduct.cs",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.BusinessLayer\\BusinessModel\\EmptyProduct.cs",
+              "RelativeDocumentMoniker": "..\\Shop.BusinessLayer\\BusinessModel\\EmptyProduct.cs",
+              "ToolTip": "C:\\LanguageNext\\Shop.BusinessLayer\\BusinessModel\\EmptyProduct.cs",
+              "RelativeToolTip": "..\\Shop.BusinessLayer\\BusinessModel\\EmptyProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:36:46.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Shop.DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
+              "ToolTip": "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T15:05:34.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
