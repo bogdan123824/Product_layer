@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LanguageNext\\Shop\\Shop.csproj": {}
+    "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\LanguageNext\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj": {
+    "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LanguageNext\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj",
         "projectName": "Shop.BusinessLayer",
-        "projectPath": "C:\\LanguageNext\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\38067\\.nuget\\packages\\",
-        "outputPath": "C:\\LanguageNext\\Shop.BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj": {
-                "projectPath": "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj"
+              "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj": {
+    "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
         "projectName": "Shop.DataAccessLayer",
-        "projectPath": "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\38067\\.nuget\\packages\\",
-        "outputPath": "C:\\LanguageNext\\Shop.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\LanguageNext\\Shop\\Shop.csproj": {
+    "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LanguageNext\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\LanguageNext\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\38067\\.nuget\\packages\\",
-        "outputPath": "C:\\LanguageNext\\Shop\\obj\\",
+        "outputPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -189,11 +189,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\LanguageNext\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj": {
-                "projectPath": "C:\\LanguageNext\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj"
+              "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj"
               },
-              "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj": {
-                "projectPath": "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj"
+              "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj"
               }
             }
           }
@@ -233,7 +233,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.8.0, )"
             }
           },
           "imports": [

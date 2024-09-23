@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q91QFPSo1ooqGzIPNtoaAftmWR06GJ3OZQxsJSBmegFxTJcm+c/jZ4Ktu3eN7MoIhgRppn3ofoJbahlG158pcw==",
+  "dgSpecHash": "MX6lhI7Zg6GM5LEj4zi2/Rl0TMJEr4RI9+GfVxyFNR78crTWDD2YWuWlRI6HcRNB2kwKzirivUSB91j4Zu+9Lw==",
   "success": true,
-  "projectFilePath": "C:\\LanguageNext\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.BusinessLayer\\Shop.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\38067\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\38067\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

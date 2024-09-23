@@ -19,7 +19,12 @@ namespace Shop.Controllers
             _productService = productService;
             _mapper = mapper;
         }
-
+        /// <summary>
+        /// Запрос на список всех продуктов.
+        /// </summary>
+        /// <returns>
+        /// Если нет продуктов то  возвращаеться пустой список
+        /// </returns>
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
@@ -28,6 +33,14 @@ namespace Shop.Controllers
             return Ok(productResponses);
         }
 
+        /// <summary>
+        /// Запрос на продукт по его Айди.
+        /// </summary>
+        /// <param name="id">Айди продукта</param>
+        /// <returns>
+        /// Возвращаеться код 200 если продукт с таким айди есть в списке. 
+        /// Возвращаеться код 404 если продукт не найден.
+        /// </returns>
         [HttpGet]
         [Route("{id:Guid}")]
         public async Task<IActionResult> GetSingle([FromRoute] Guid id)
@@ -40,7 +53,26 @@ namespace Shop.Controllers
             var productResponse = _mapper.Map<ProductResponse>(product);
             return Ok(productResponse);
         }
-
+        /// <summary>
+        /// Запрос на добавление продукта.
+        /// </summary>
+        /// <remarks>
+        /// Пример запроса:
+        ///
+        ///     POST /Product
+        ///     {
+        ///        "name" : "A4Tech Bloody B188",
+        ///        "text" : "blalsdlasd"
+        ///        "price" : 111,
+        ///        "category": "PeripheryAndAccessories",
+        ///        "manufacturer" : "Pepsi"
+        ///     }
+        ///
+        /// </remarks>
+        /// <param name="request">Модель для добавления продукта <see cref="AddProductRequest"/></param>
+        /// <returns>Возвращаеться код 201 при успешном добавлении продукта.
+        /// Возвращаеться код 400 при неправильном добавлении продукта.
+        /// </returns>
         [HttpPost]
         public async Task<IActionResult> AddProduct([FromBody] AddProductRequest request)
         {
@@ -56,7 +88,14 @@ namespace Shop.Controllers
                 return BadRequest(ex.Message);
             }
         }
-
+        /// <summary>
+        /// Запрос на редактирование существующего продукта в списке.
+        /// </summary>
+        /// <param name="id">Айди каждого существующего продукта</param>
+        /// <param name="request">Редактирование продукта по модели <see cref="UpdateProductRequest"/></param>
+        /// <returns>Возвращаеться код 200 при успешном редактировании продукта.
+        /// Возвращаеться код 400 при неправильном редактировании продукта.
+        /// </returns>
         [HttpPut]
         [Route("{id:Guid}")]
         public async Task<IActionResult> UpdateProduct([FromRoute] Guid id, [FromBody] UpdateProductRequest request)
@@ -74,7 +113,13 @@ namespace Shop.Controllers
                 return BadRequest(ex.Message);
             }
         }
-
+        /// <summary>
+        /// Запрос на удаление продукта по Айди.
+        /// </summary>
+        /// <param name="id">Айди каждого существующего продукта</param>
+        /// <returns>Возвращаеться код 204 при успешном удалении продукта.
+        /// Возвращаеться код 400 при неправильном удалении продукта.
+        /// </returns>
         [HttpDelete]
         [Route("{id:Guid}")]
         public async Task<IActionResult> DeleteProduct([FromRoute] Guid id)

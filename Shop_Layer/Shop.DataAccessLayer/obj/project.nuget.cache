@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TM2DLtdFSQkLnTWfVC2+oxnYH1rXBGW0q3osfW9vlOu3EoDlTAFzyth9caHmV1r7WH4x1MfROlYQDpQsIEpf7A==",
+  "dgSpecHash": "v6h45KSFNQuTPOWi/1xM4J/kEIFxnXSBufrkeJJDMEzNx5ey6HDe7fnaWg3BVnTQlxT2AwvCuC1xtLXUCR6Mtg==",
   "success": true,
-  "projectFilePath": "C:\\LanguageNext\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\38067\\Documents\\GitHub\\Product_layer\\Shop_Layer\\Shop.DataAccessLayer\\Shop.DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\38067\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\38067\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

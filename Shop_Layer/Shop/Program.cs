@@ -6,6 +6,7 @@ using Shop.DataAccessLayer.Entities;
 using Shop.DataAccessLayer.Interfaces;
 using Shop.DataAccessLayer.Repositories;
 using Shop.Mapping;
+using System.Reflection;
 
 
 var builder = WebApplication.CreateBuilder(args);
