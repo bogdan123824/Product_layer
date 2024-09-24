@@ -2,12 +2,10 @@ using Microsoft.EntityFrameworkCore;
 using Shop.BusinessLayer.Interfaces;
 using Shop.BusinessLayer.Services;
 using Shop.DataAccessLayer.EF;
-using Shop.DataAccessLayer.Entities;
 using Shop.DataAccessLayer.Interfaces;
 using Shop.DataAccessLayer.Repositories;
 using Shop.Mapping;
 using System.Reflection;
-
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,7 +17,11 @@ builder.Services.AddDbContext<DbProductContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnect")));
 
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(options =>
+{
+    var xmlFilename = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, xmlFilename));
+});
 
 builder.Services.AddCors(options =>
 {
@@ -46,7 +48,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseCors("MyCors");
 
 app.MapControllers();

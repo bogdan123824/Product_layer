@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Shop</name>
+    </assembly>
+    <members>
+        <member name="M:Shop.Controllers.ProductController.GetAll">
+            <summary>
+            Запрос на список всех продуктов.
+            </summary>
+            <returns>
+            Если нет продуктов то  возвращаеться пустой список
+            </returns>
+        </member>
+        <member name="M:Shop.Controllers.ProductController.GetSingle(System.Guid)">
+            <summary>
+            Запрос на продукт по его Айди.
+            </summary>
+            <param name="id">Айди продукта</param>
+            <returns>
+            Возвращаеться код 200 если продукт с таким айди есть в списке. 
+            Возвращаеться код 404 если продукт не найден.
+            </returns>
+        </member>
+        <member name="M:Shop.Controllers.ProductController.AddProduct(Shop.Models.AddProductRequest)">
+             <summary>
+             Запрос на добавление продукта.
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 POST /Product
+                 {
+                    "name" : "A4Tech Bloody B188",
+                    "text" : "blalsdlasd"
+                    "price" : 111,
+                    "category": "PeripheryAndAccessories",
+                    "manufacturer" : "Pepsi"
+                 }
+            
+             </remarks>
+             <param name="request">Модель для добавления продукта <see cref="T:Shop.Models.AddProductRequest"/></param>
+             <returns>Возвращаеться код 201 при успешном добавлении продукта.
+             Возвращаеться код 400 при неправильном добавлении продукта.
+             </returns>
+        </member>
+        <member name="M:Shop.Controllers.ProductController.UpdateProduct(System.Guid,Shop.Models.UpdateProductRequest)">
+            <summary>
+            Запрос на редактирование существующего продукта в списке.
+            </summary>
+            <param name="id">Айди каждого существующего продукта</param>
+            <param name="request">Редактирование продукта по модели <see cref="T:Shop.Models.UpdateProductRequest"/></param>
+            <returns>Возвращаеться код 200 при успешном редактировании продукта.
+            Возвращаеться код 400 при неправильном редактировании продукта.
+            </returns>
+        </member>
+        <member name="M:Shop.Controllers.ProductController.DeleteProduct(System.Guid)">
+            <summary>
+            Запрос на удаление продукта по Айди.
+            </summary>
+            <param name="id">Айди каждого существующего продукта</param>
+            <returns>Возвращаеться код 204 при успешном удалении продукта.
+            Возвращаеться код 400 при неправильном удалении продукта.
+            </returns>
+        </member>
+    </members>
+</doc>

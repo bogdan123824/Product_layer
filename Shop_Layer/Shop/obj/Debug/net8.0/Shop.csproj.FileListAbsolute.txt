@@ -295,3 +295,4 @@ C:\Users\38067\Documents\GitHub\Product_layer\Shop_Layer\Shop\obj\Debug\net8.0\r
 C:\Users\38067\Documents\GitHub\Product_layer\Shop_Layer\Shop\obj\Debug\net8.0\Shop.pdb
 C:\Users\38067\Documents\GitHub\Product_layer\Shop_Layer\Shop\obj\Debug\net8.0\Shop.genruntimeconfig.cache
 C:\Users\38067\Documents\GitHub\Product_layer\Shop_Layer\Shop\obj\Debug\net8.0\ref\Shop.dll
+C:\Users\38067\Documents\GitHub\Product_layer\Shop_Layer\Shop\bin\Debug\net8.0\Shop.xml
